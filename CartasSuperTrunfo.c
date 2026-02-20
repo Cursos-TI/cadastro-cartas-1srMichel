@@ -42,16 +42,16 @@ int main() {
   scanf(" %s", nome1);
 
   printf("insira a população da cidade 1:\n");
-  scanf("%i", &populacao1);
+  scanf("%d", &populacao1);
 
   printf("insira a área em km da cidade 1:\n");
   scanf("%f", &areakm1);
 
   printf("insira o PIB dessa cidade:\n");
-  scanf("%i", &pib1);
+  scanf("%f", &pib1);
 
   printf("insira o numero de pontos turisticos da cidade 1:\n");
-  scanf("%i", &pontosturisticos1);
+  scanf("%d", &pontosturisticos1);
 
   //da cidade 2
   printf("cadastro da cidade 2:\n");
@@ -66,16 +66,16 @@ int main() {
   scanf(" %s", nome2);
 
   printf("insira a população da cidade 2:\n");
-  scanf("%i", &populacao2);
+  scanf("%d", &populacao2);
 
   printf("insira a área em km da cidade 2:\n");
   scanf("%f", &areakm2);
 
   printf("insira o PIB dessa cidade:\n");
-  scanf("%i", &pib2);
+  scanf("%f", &pib2);
 
   printf("insira o numero de pontos turisticos da cidade 1:\n");
-  scanf("%i", &pontosturisticos2);
+  scanf("%d", &pontosturisticos2);
 
   // Área para exibição dos dados da cidade
 
