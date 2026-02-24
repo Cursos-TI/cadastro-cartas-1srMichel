@@ -114,6 +114,7 @@ int main() {
 
   printf("\n");
   
+  //Calcular super poder
   float superpoder1 = (float)populacao1 + areakm1 + pib1 + (float)pontosturisticos1 + 1.0/DensidadePopulacional1;
   float superpoder2 = (float)populacao2 + areakm2 + pib2 + (float)pontosturisticos2 + 1.0/DensidadePopulacional2;
   
